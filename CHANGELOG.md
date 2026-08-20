@@ -19,6 +19,9 @@
 \## Version 1.5
 
 \-Added phone number field to student structure
+\## Version 1.4
+
+\-Added email field to student structure
 
 
 
