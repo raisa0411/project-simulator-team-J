@@ -38,3 +38,11 @@
 
 -Added gender field to student structure
 
+
+
+\## Version 1.8
+
+-Added semester field to student structure
+
+
+
