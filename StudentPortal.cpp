@@ -5,6 +5,8 @@ struct Student
     int age;
     float cgpa;
     char department[50];
-    char phone[20];
     char email[100];
+    char phone[20];
+    char address[100];
+    
 };
