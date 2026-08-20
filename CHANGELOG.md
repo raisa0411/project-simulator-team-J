@@ -52,3 +52,9 @@
 
 
 
+\## Version 1.10
+
+-Added status field to student structure
+
+
+

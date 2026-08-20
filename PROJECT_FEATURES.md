@@ -50,3 +50,21 @@
 
 -The system now stores the credit hour of every student
 
+
+
+\## Student Status
+
+-The system now stores the status of every student
+
+-The status could represent:
+
+&nbsp;       i. Active
+
+&nbsp;       ii. Inactive
+
+&nbsp;       iii. Graduated
+
+&nbsp;        
+
+
+
