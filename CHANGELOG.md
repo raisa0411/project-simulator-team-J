@@ -46,3 +46,9 @@
 
 
 
+\## Version 1.9
+
+-Added credit hour field to student structure
+
+
+
