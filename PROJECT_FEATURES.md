@@ -40,3 +40,9 @@
 
 
 
+\## Student Semester
+
+-The system now stores the semester of every student
+
+
+
