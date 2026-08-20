@@ -8,5 +8,6 @@ struct Student
     char email[100];
     char phone[20];
     char address[100];
+    char gender[10];
     
 };
