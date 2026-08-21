@@ -70,5 +70,11 @@
 
 The system now supports student names up to 100 characters in length.
 
+
+
+\## Expanded Address Capacity
+
+The system now supports residential addresses up to 200 characters in length.
+
  
 
