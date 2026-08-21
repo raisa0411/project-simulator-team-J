@@ -82,5 +82,9 @@ The system now supports residential addresses up to 200 characters in length.
 
 The system now supports phone numbers up to 25 characters in length to accommodate international formats.
 
- 
+
+
+\## Renamed Student Identifier
+
+The primary identification field in the Student entity has been updated to `studentId` for improved naming clarity. 
 
