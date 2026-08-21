@@ -62,3 +62,9 @@
 
 \- Increased name buffer size from 50 to 100 characters in Student structure.
 
+
+
+\## Version 1.12
+
+\- Increased address buffer size from 100 to 200 characters in Student structure.
+
