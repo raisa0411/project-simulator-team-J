@@ -76,5 +76,11 @@ The system now supports student names up to 100 characters in length.
 
 The system now supports residential addresses up to 200 characters in length.
 
+
+
+\## Expanded Phone Number Capacity
+
+The system now supports phone numbers up to 25 characters in length to accommodate international formats.
+
  
 
