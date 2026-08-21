@@ -66,3 +66,8 @@
 -Added Project Files structure section to README.md.
 
 
+## Version 1.18
+-Added the names of team members to README.md.
+
+
+
