@@ -28,3 +28,15 @@ The application is designed to efficiently manage student academic records, pers
 
 
 
+**## Team Members**
+
+
+
+\-Raisa Alam
+
+\-Mehreen Hasan Marifa
+
+\-Akash Ghosh
+
+\-Rashadul Hasan Bhuiyan
+
