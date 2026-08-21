@@ -1,62 +1,62 @@
-\## Student Age
+## Student Age
 
-\-The system now stores the age of every student
-
-
-
-\## Student CGPA
-
-\-The system now stores the cgpa of every student
+-The system now stores the age of every student
 
 
 
-\## Student DEPARTMENT
+## Student CGPA
 
-\-The system now stores the department of every student
-
-
-
-\## Student Email
-
-\-The system now stores the email of every student
+-The system now stores the cgpa of every student
 
 
 
-\## Student PHONE NUMBER
+## Student DEPARTMENT
 
-\-The system now stores the phone number of every student
-
-
-
-\## Student Address
-
-\-The system now stores the address of every student
+-The system now stores the department of every student
 
 
 
-\## Student Gender
+## Student Email
 
-\-The system now stores the gender of every student
-
-
-
-\## Student Semester
-
-\-The system now stores the semester of every student
+-The system now stores the email of every student
 
 
 
-\## Student Credit Hour
+## Student PHONE NUMBER
 
-\-The system now stores the credit hour of every student
+-The system now stores the phone number of every student
 
 
 
-\## Student Status
+## Student Address
 
-\-The system now stores the status of every student
+-The system now stores the address of every student
 
-\-The status could represent:
+
+
+## Student Gender
+
+-The system now stores the gender of every student
+
+
+
+## Student Semester
+
+-The system now stores the semester of every student
+
+
+
+## Student Credit Hour
+
+-The system now stores the credit hour of every student
+
+
+
+## Student Status
+
+-The system now stores the status of every student
+
+-The status could represent:
 
         i. Active
 
@@ -66,25 +66,28 @@
 
 
 
-\## Expanded Name Capacity
+## Expanded Name Capacity
 
 The system now supports student names up to 100 characters in length.
 
 
 
-\## Expanded Address Capacity
+## Expanded Address Capacity
 
 The system now supports residential addresses up to 200 characters in length.
 
 
 
-\## Expanded Phone Number Capacity
+## Expanded Phone Number Capacity
 
 The system now supports phone numbers up to 25 characters in length to accommodate international formats.
 
 
 
-\## Renamed Student Identifier
+## Renamed Student Identifier
 
 The primary identification field in the Student entity has been updated to `studentId` for improved naming clarity. 
+
+## Renamed Student Name Field
+The student name property in the Student entity has been renamed to `studentName` to improve codebase naming consistency.
 
