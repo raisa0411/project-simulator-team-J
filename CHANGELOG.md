@@ -77,8 +77,13 @@
 
 ## Version 1.14
 
-- Renamed `id` field to `studentId` in Student structure.
+- Renamed 'id' field to 'studentId' in Student structure.
 
 
 ## Version 1.15
-- Renamed `name` field to `studentName` in Student structure.
+- Renamed 'name' field to 'studentName' in Student structure.
+
+
+## Version 1.16
+- Updated README.md with project description.
+
