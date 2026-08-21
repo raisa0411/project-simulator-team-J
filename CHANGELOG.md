@@ -68,3 +68,11 @@
 
 \- Increased address buffer size from 100 to 200 characters in Student structure.
 
+
+
+\## Version 1.13
+
+\- Increased phone buffer size from 20 to 25 characters in Student structure.
+
+
+
