@@ -1,70 +1,74 @@
 \## Student Age
 
--The system now stores the age of every student
+\-The system now stores the age of every student
 
 
 
 \## Student CGPA
 
--The system now stores the cgpa of every student
+\-The system now stores the cgpa of every student
 
 
 
 \## Student DEPARTMENT
 
--The system now stores the department of every student
+\-The system now stores the department of every student
 
 
 
 \## Student Email
 
--The system now stores the email of every student
+\-The system now stores the email of every student
 
 
 
 \## Student PHONE NUMBER
 
--The system now stores the phone number of every student
+\-The system now stores the phone number of every student
 
 
 
 \## Student Address
 
--The system now stores the address of every student
+\-The system now stores the address of every student
 
 
 
 \## Student Gender
 
--The system now stores the gender of every student
+\-The system now stores the gender of every student
 
 
 
 \## Student Semester
 
--The system now stores the semester of every student
+\-The system now stores the semester of every student
 
 
 
 \## Student Credit Hour
 
--The system now stores the credit hour of every student
+\-The system now stores the credit hour of every student
 
 
 
 \## Student Status
 
--The system now stores the status of every student
+\-The system now stores the status of every student
 
--The status could represent:
+\-The status could represent:
 
-&nbsp;       i. Active
+        i. Active
 
-&nbsp;       ii. Inactive
+        ii. Inactive
 
-&nbsp;       iii. Graduated
-
-&nbsp;        
+        iii. Graduated
 
 
+
+\## Expanded Name Capacity
+
+The system now supports student names up to 100 characters in length.
+
+ 
 
